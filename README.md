@@ -3,6 +3,7 @@
 ## Overview
 
 A product case study for a centralized platform designed to manage, monitor, and analyze conversations between users and AI assistants.
+<img width="1254" height="1254" alt="پستر" src="https://github.com/user-attachments/assets/1e0eaad9-29cb-49d2-bc10-5501efa35892" />
 
 ## Problem
 
